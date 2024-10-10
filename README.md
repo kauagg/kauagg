@@ -1,7 +1,7 @@
 
 # Olá, eu sou Kauã Gomes, Sejam Muito Bem-Vindos(as) ao Meu Perfil!  👋
 
-![Banner](https://link-para-seu-banner.jpg)
+![Banner](https://img.freepik.com/vetores-gratis/modelo-de-capa-do-facebook-de-reparo-tecnico_23-2150046975.jpg?ga=GA1.1.176732790.1726697243&semt=ais_hybrid)
 
 ## Sobre Mim
 - 💼 Desenvolvedor Front-End
