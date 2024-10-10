@@ -4,6 +4,7 @@
 ![Banner](https://link-para-seu-banner.jpg)
 
 ## Sobre Mim
+- 💼 Desenvolvedor Front-End
 - 🎓 Estudante de - Analise e Desenvolvimento de Sistemas -
 - 🌱 Aprendendo: TypeScript
 - 💬 Pergunte-me sobre: Tudo da área de Front-End
@@ -20,9 +21,9 @@
   - [x] VSCode
 
 ## Projetos em Destaque
-- [📁 Projeto 1]([link-para-seu-projeto-1](https://kauagg.github.io/Cardapio-Online/)): Um projeto pessoal de Cardápio Online de uma lanchonete. 
-- [📁 Projeto 2]([link-para-seu-projeto-2](https://kauagg.github.io/Consultor_De_Cep/)): Um consulor de CEP Funcional.
-- [📁 Projeto 3]([link-para-seu-projeto-3](https://kauagg.github.io/pomodoro/)): Temporizador de Estudos para Alunos e Professores.
+- [📁 Projeto 1](https://kauagg.github.io/Cardapio-Online/]): Um projeto pessoal de Cardápio Online de uma lanchonete. 
+- [📁 Projeto 2](https://kauagg.github.io/Consultor_De_Cep/]): Um consulor de CEP Funcional.
+- [📁 Projeto 3](https://kauagg.github.io/pomodoro/): Temporizador de Estudos para Alunos e Professores.
 
 ## Estatísticas
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=kauagg&show_icons=true&theme=radical)
@@ -31,5 +32,5 @@
 ![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=kauagg&theme=radical)
 
 ## Vamos nos conectar!
-- [LinkedIn]([link-para-seu-linkedin](https://www.linkedin.com/in/kau%C3%A3-gomes-24a8a8280/))
+- [LinkedIn](https://www.linkedin.com/in/kau%C3%A3-gomes-24a8a8280/)
 - [instagram](meu insta)
