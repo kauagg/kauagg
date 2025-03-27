@@ -44,6 +44,10 @@ Um cardápio interativo e moderno que permite aos clientes explorarem produtos e
 Aplicação que conecta a uma API pública para buscar endereços através do CEP.  
 🔗 [Ver Projeto](#)  
 
+### 🛒 Bairro Express
+Aplicação que conecta a pessoa e pesquisa por preços mais em contas.  
+🔗 [Ver Projeto](#)  
+
 ### ⏳ Pomodoro
 Um temporizador estiloso que ajuda estudantes e professores a maximizarem sua produtividade.  
 🔗 [Ver Projeto](#)  
