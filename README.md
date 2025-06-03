@@ -47,18 +47,22 @@ Um aplicativo que facilita a vida de quem cria a festa e, de quem quer contratar
 
 ### 🎨 Landing Page AutoPro Automações
 Um cardápio interativo e moderno que permite aos clientes explorarem produtos e preços em tempo real.  
+
 🔗 [Ver Projeto](https://kauagg.github.io/LP_AutoPro/)  
 
 ### 📦 Consultor de CEP
 Aplicação que conecta a uma API pública para buscar endereços através do CEP.  
+
 🔗 [Ver Projeto](https://kauagg.github.io/Consultor_De_Cep/)  
 
 ### 🛒 Bairro Express
 Aplicação que conecta a pessoa e pesquisa por preços mais em contas.  
+
 🔗 [Ver Projeto](https://kauagg.github.io/Bairro_Express/)  
 
 ### ⏳ Pomodoro
 Um temporizador estiloso que ajuda estudantes e professores a maximizarem sua produtividade.  
+
 🔗 [Ver Projeto](https://kauagg.github.io/Temporizador_Em_JavaScript/)  
 
 ---
