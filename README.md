@@ -8,6 +8,8 @@ Apaixonado por tecnologia, transformo ideias em interfaces modernas, intuitivas 
 ## 🚨 Sobre Mim
 
 💻 **Desenvolvedor Front-End**  
+🐘 **Especialista em PHP - Desesnvolvimento e Soluções**
+𖥩  **Especialista em HTML, CSS e JavaScript - Desenvolvimento de Sistemas**
 📚 **Estudante de Análise e Desenvolvimento de Sistemas**  
 🌟 **Explorando:** TypeScript, React e Next.js  
 📧 **Contato:** [kauagomesabencoado@gmail.com](mailto:kauagomesabencoado@gmail.com)  
