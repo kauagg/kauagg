@@ -42,6 +42,7 @@ Um sistema de bot simples somente para achar palavras chaves em seu curriculo e,
 
 ### 🌐 Conecta Festas
 Um aplicativo que facilita a vida de quem cria a festa e, de quem quer contratar ou alugar itens de festas
+
 🔗 [Ver Projeto](https://kauagg.github.io/Conecta_festa_Final/)
 
 ### 🎨 Landing Page AutoPro Automações
