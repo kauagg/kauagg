@@ -37,6 +37,7 @@ Apaixonado por tecnologia, transformo ideias em interfaces modernas, intuitivas 
 
 ### 👔 Bot Ánalisador de Curriculo
 Um sistema de bot simples somente para achar palavras chaves em seu curriculo e, Caso falte alguma ele dará alguma sugestão de palavra.
+
 🔗 [Ver Projeto](https://kauagg.github.io/bot_curriculo/)
 
 ### 🌐 Conecta Festas
@@ -49,11 +50,11 @@ Um cardápio interativo e moderno que permite aos clientes explorarem produtos e
 
 ### 📦 Consultor de CEP
 Aplicação que conecta a uma API pública para buscar endereços através do CEP.  
-🔗 [Ver Projeto]((https://kauagg.github.io/Consultor_De_Cep/))  
+🔗 [Ver Projeto](https://kauagg.github.io/Consultor_De_Cep/)  
 
 ### 🛒 Bairro Express
 Aplicação que conecta a pessoa e pesquisa por preços mais em contas.  
-🔗 [Ver Projeto]((https://kauagg.github.io/Bairro_Express/))  
+🔗 [Ver Projeto](https://kauagg.github.io/Bairro_Express/)  
 
 ### ⏳ Pomodoro
 Um temporizador estiloso que ajuda estudantes e professores a maximizarem sua produtividade.  
